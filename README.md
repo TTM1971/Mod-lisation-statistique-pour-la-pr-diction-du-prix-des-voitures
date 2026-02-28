@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Modélisation Statistique pour la Prédiction du Prix des Voitures
 
 ## Description du Projet
@@ -105,3 +106,11 @@ Ce modèle peut être utilisé pour :
 - L'analyse inclut une attention particulière aux problèmes courants en régression
 - Les résultats peuvent varier selon la qualité et la représentativité des données
 - Le modèle peut être amélioré avec plus de données ou des techniques avancées
+=======
+# Mod-lisation-statistique-pour-la-pr-diction-du-prix-des-voitures
+ L’objectif est de construire le meilleur modèle de régression possible pour prédire  le prix d’un véhicule, en portant une attention particulière à l’identification et à la gestion des  problèmes courants en régression.
+ 
+rapport
+
+https://uqoca-my.sharepoint.com/:w:/r/personal/tamt02_uqo_ca/Documents/EXAMEN%20INTRA.docx?d=we8d94c7c74394282a80c416d5b59e94b&csf=1&web=1&e=8feKxv
+>>>>>>> 87517e6ba8b8be30300f65eb1b2d34e6e0e5bc87
