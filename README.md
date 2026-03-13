@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Modélisation Statistique pour la Prédiction du Prix des Voitures
 
 ## Description du Projet
@@ -113,4 +113,3 @@ Ce modèle peut être utilisé pour :
 rapport
 
 https://uqoca-my.sharepoint.com/:w:/r/personal/tamt02_uqo_ca/Documents/EXAMEN%20INTRA.docx?d=we8d94c7c74394282a80c416d5b59e94b&csf=1&web=1&e=8feKxv
->>>>>>> 87517e6ba8b8be30300f65eb1b2d34e6e0e5bc87
